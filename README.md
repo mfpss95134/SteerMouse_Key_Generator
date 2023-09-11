@@ -11,8 +11,7 @@
 
 
 ## Usage
-下載編譯即可使用
-
+- 下載編譯即可使用
 ```
 git clone https://github.com/mfpss95134/SteerMouse_Key_Generator.git
 
